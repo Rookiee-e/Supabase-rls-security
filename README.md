@@ -12,7 +12,6 @@
 - Provides adversarial test cases, not just happy-path examples  
 - Acts as a security checklist for reviewing existing RLS, not just writing new ones  
 
-This is a **security audit framework**, not a tutorial.  
 Its goal is to make RLS failures obvious **before they reach production**.
 
 ---
